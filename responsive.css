@@ -20,6 +20,8 @@
     font-weight: bold;
   }
 
+  #main h2 a{ color: red; }
+
   .sidebar {
     display: none;
   }
