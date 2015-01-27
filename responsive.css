@@ -8,6 +8,13 @@
   #container header nav{
     width: 100%;
   }
+
+  #container #main{
+    background-color: #fff;
+    width: 80%;
+    margin: 0 10%;
+  }
+
   .sidebar {
     display: none;
   }
