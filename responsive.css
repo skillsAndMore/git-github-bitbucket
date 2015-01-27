@@ -21,6 +21,10 @@
   }
 
   #main h2 a{ color: red; }
+  #main article h3{
+    font-size: 24px;
+    color: green;
+  }
 
   .sidebar {
     display: none;
