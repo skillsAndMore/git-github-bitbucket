@@ -2,6 +2,9 @@
   #container{
     width: 100%;
   }
+  #container header{
+    margin: 10px 30px;
+  }
   .sidebar {
     display: none;
   }
