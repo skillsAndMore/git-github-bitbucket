@@ -1,4 +1,7 @@
 @media (max-width: 600px) {
+  #container{
+    width: 100%;
+  }
   .sidebar {
     display: none;
   }
